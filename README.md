@@ -14,7 +14,7 @@ This project documents a redacted endpoint hardening review for a Windows endpoi
 
 ## Report
 
-[View the Redacted Report PDF](report/Redacted_IF-WIN-HP01_Endpoint_Hardening_Report.pdf)
+[View the Redacted Report PDF](report/Redacted_Remote_Login_original_Final.pdf)
 
 ## Evidence
 
