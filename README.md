@@ -16,14 +16,16 @@ This project documents a redacted endpoint hardening review for a Windows endpoi
 
 [View the Redacted Report PDF](report/Redacted_Remote_Login_original_Final.pdf)
 
+
+[View the artifact fig03](screenshots/fig03_icmp_tcp22_validation_redacted.png)
+
 ## Evidence
 
 | Figure | Evidence File | Purpose |
 |---|---|---|
-| Fig. 01 | [Admin Access Verification](evidence/fig01-admin-access-verification-redacted.png) | Confirms administrative context used during review |
-| Fig. 02 | [Installed Apps Baseline](evidence/fig02-installed-apps-baseline-redacted.png) | Documents installed application review |
-| Fig. 03 | [Windows Update Status](evidence/fig03-windows-update-status-redacted.png) | Shows endpoint update status |
-| Fig. 04 | [Security Dashboard](evidence/fig04-security-dashboard-redacted.png) | Verifies post-review Windows Security status |
+| Fig. 03 | [icmp to tcp22 validation fig03](screenshots/fig03_icmp_tcp22_validation_redacted.png) | icmp_tcp22_validation |
+| Fig. 04 | [ssh sesssion verification fig04](evidence/fig02-installed-apps-baseline-redacted.png) |  |ssh_session_verification | 
+| Fig. 05 | [openssh service validation](evidence/fig04-security-dashboard-redacted.png) | Verifies post-review Windows Security status |
 
 ## Key Skills Demonstrated
 
