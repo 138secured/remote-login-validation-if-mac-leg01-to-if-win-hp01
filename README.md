@@ -21,9 +21,9 @@ This project documents a redacted endpoint hardening review for a Windows endpoi
 
 | Figure | Evidence File | Purpose |
 |---|---|---|
-| Fig. 03 | [icmp to tcp22 validation fig03](screenshots/fig03_icmp_tcp22_validation_redacted.png) | ? |
-| Fig. 04 | [ssh session verification fig 04](screenshots/fig04_ssh_session_verification_redacted.png) | ? | 
-| Fig. 05 | [openssh service validation](screenshots/fig05_openssh_service_validation_redacted.png) | ? |
+| Fig. 03 | [icmp to tcp22 validation fig03](screenshots/fig03_icmp_tcp22_validation_redacted.png) | Shows the transition from ping testing to TCP/22 validation during SSH troubleshooting. |
+| Fig. 04 | [ssh session verification fig 04](screenshots/fig04_ssh_session_verification_redacted.png) | Confirms a successful authenticated SSH session and validates remote access between endpoints. | 
+| Fig. 05 | [openssh service validation](screenshots/fig05_openssh_service_validation_redacted.png) | Verifies the OpenSSH service status and supports that the endpoint was configured to accept SSH connections. |
 
 ## Key Skills Demonstrated
 
